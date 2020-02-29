@@ -42,7 +42,7 @@ GEM
     mustermann-grape (1.0.0)
       mustermann (~> 1.0.0)
     parseline (1.0.3)
-    puma (3.12.1)
+    puma (3.12.3)
     rack (2.0.6)
     rack-accept (0.4.5)
       rack (>= 0.4)
